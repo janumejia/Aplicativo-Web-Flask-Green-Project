@@ -4,7 +4,9 @@ Aplicación web para la asignatura de Proyecto informático.
 El proyecto consiste en el desarrollo de una plataforma web, que surge como iniciativa para fomentar y apoyar proyectos ambientales. Esta permitirá exponer ideas y proyectos ambientales y culturales, y facilitará el apoyo y la colaboración de las personas para que se lleven a cabo estos proyectos.
 
 # Imagenes de demostración
-
+<br>
+**Principal:**
+<br>
 <p align="center">
   <img src="imagenesDemo/home.png">
 </p>
@@ -13,6 +15,9 @@ El proyecto consiste en el desarrollo de una plataforma web, que surge como inic
   <img src="imagenesDemo/home2.png">
 </p>
 
+<br>
+**Registro y Login**
+<br>
 <p align="center">
   <img src="imagenesDemo/register.png">
 </p>
@@ -22,9 +27,11 @@ El proyecto consiste en el desarrollo de una plataforma web, que surge como inic
 </p>
 
 <p align="center">
-  <img src="imagenesDemo/olvidates-la-contrasena.png">
+  <img src="imagenesDemo/olvidaste-la-contrasena.png">
 </p>
-
+<br>
+**Proponente**
+<br>
 <p align="center">
   <img src="imagenesDemo/index-proponente.png">
 </p>
