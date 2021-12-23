@@ -5,8 +5,11 @@ El proyecto consiste en el desarrollo de una plataforma web, que surge como inic
 
 # Imagenes de demostración
 <br>
+
 **Principal:**
+
 <br>
+
 <p align="center">
   <img src="imagenesDemo/home.png">
 </p>
@@ -16,8 +19,11 @@ El proyecto consiste en el desarrollo de una plataforma web, que surge como inic
 </p>
 
 <br>
+
 **Registro y Login**
+
 <br>
+
 <p align="center">
   <img src="imagenesDemo/register.png">
 </p>
@@ -29,9 +35,13 @@ El proyecto consiste en el desarrollo de una plataforma web, que surge como inic
 <p align="center">
   <img src="imagenesDemo/olvidaste-la-contrasena.png">
 </p>
+
 <br>
+
 **Proponente**
+
 <br>
+
 <p align="center">
   <img src="imagenesDemo/index-proponente.png">
 </p>
